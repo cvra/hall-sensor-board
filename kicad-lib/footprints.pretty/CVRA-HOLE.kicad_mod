@@ -1,0 +1,9 @@
+(module CVRA-HOLE (layer F.Cu) (tedit 4AFA1A31)
+  (fp_text reference CVRA-HOLE (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 4.0005 4.0005) (drill 3.2004) (layers *.Cu *.SilkS *.Mask))
+)

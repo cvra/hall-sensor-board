@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/footprints.pretty)(options "")(descr ""))
+  (lib (name _connectors)(type KiCad)(uri D:/Rouven/Kicad/kicad-lib-master/footprints/_connectors.pretty)(options "")(descr ""))
+)

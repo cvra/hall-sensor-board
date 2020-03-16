@@ -1,0 +1,12 @@
+(module M2.5 (layer F.Cu) (tedit 50D5AAF0)
+  (descr "TROU M3")
+  (tags DEV)
+  (fp_text reference 1PIN (at 0 -3.048) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  )
+  (fp_text value P*** (at 0 2.794) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  )
+  (fp_circle (center 0 0) (end 0 -2.286) (layer F.SilkS) (width 0.381))
+  (pad 1 thru_hole circle (at 0 0) (size 5.00126 5.00126) (drill 2.60096) (layers *.Cu *.Mask F.SilkS))
+)

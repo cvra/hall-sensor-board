@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 12.04.2015 21:59:03
+
+BeginCmp
+TimeStamp = /5522C472;
+Reference = C1;
+ValeurCmp = NC;
+IdModule  = _std:_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552ACA8A;
+Reference = D1;
+ValeurCmp = LED VERTE;
+IdModule  = _std:_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522C353;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = _connectors:_Pin2mm_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522CE34;
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = _std:_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522CBB3;
+Reference = U1;
+ValeurCmp = AS1106;
+IdModule  = footprints:SOT-23W;
+EndCmp
+
+EndListe
